@@ -4,4 +4,4 @@
 
 #HAHAHAHA
 
-Hello from the other side
+Hello my friend

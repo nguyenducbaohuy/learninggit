@@ -6,3 +6,6 @@
 
 Hello from the main branch!
 Hello my friend
+
+
+This is a new project
